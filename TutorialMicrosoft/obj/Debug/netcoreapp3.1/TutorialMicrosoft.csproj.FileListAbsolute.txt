@@ -1,0 +1,13 @@
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\bin\Debug\netcoreapp3.1\TutorialMicrosoft.exe
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\bin\Debug\netcoreapp3.1\TutorialMicrosoft.deps.json
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\bin\Debug\netcoreapp3.1\TutorialMicrosoft.runtimeconfig.json
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\bin\Debug\netcoreapp3.1\TutorialMicrosoft.runtimeconfig.dev.json
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\bin\Debug\netcoreapp3.1\TutorialMicrosoft.dll
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\bin\Debug\netcoreapp3.1\TutorialMicrosoft.pdb
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\obj\Debug\netcoreapp3.1\TutorialMicrosoft.csprojAssemblyReference.cache
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\obj\Debug\netcoreapp3.1\TutorialMicrosoft.AssemblyInfoInputs.cache
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\obj\Debug\netcoreapp3.1\TutorialMicrosoft.AssemblyInfo.cs
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\obj\Debug\netcoreapp3.1\TutorialMicrosoft.csproj.CoreCompileInputs.cache
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\obj\Debug\netcoreapp3.1\TutorialMicrosoft.dll
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\obj\Debug\netcoreapp3.1\TutorialMicrosoft.pdb
+C:\Users\developer_04\source\repos\TutorialMicrosoft\TutorialMicrosoft\obj\Debug\netcoreapp3.1\TutorialMicrosoft.genruntimeconfig.cache
