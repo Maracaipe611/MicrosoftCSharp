@@ -1,0 +1,13 @@
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\bin\Debug\netcoreapp3.1\ListCSharp.exe
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\bin\Debug\netcoreapp3.1\ListCSharp.deps.json
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\bin\Debug\netcoreapp3.1\ListCSharp.runtimeconfig.json
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\bin\Debug\netcoreapp3.1\ListCSharp.runtimeconfig.dev.json
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\bin\Debug\netcoreapp3.1\ListCSharp.dll
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\bin\Debug\netcoreapp3.1\ListCSharp.pdb
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\obj\Debug\netcoreapp3.1\ListCSharp.csprojAssemblyReference.cache
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\obj\Debug\netcoreapp3.1\ListCSharp.AssemblyInfoInputs.cache
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\obj\Debug\netcoreapp3.1\ListCSharp.AssemblyInfo.cs
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\obj\Debug\netcoreapp3.1\ListCSharp.csproj.CoreCompileInputs.cache
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\obj\Debug\netcoreapp3.1\ListCSharp.dll
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\obj\Debug\netcoreapp3.1\ListCSharp.pdb
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\ListCSharp\obj\Debug\netcoreapp3.1\ListCSharp.genruntimeconfig.cache
