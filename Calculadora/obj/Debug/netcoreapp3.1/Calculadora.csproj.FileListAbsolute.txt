@@ -1,0 +1,3 @@
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache

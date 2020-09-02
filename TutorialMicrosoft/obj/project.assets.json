@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\developer_04\\source\\repos\\TutorialMicrosoft\\TutorialMicrosoft\\TutorialMicrosoft.csproj",
-      "projectName": "TutorialMicrosoft",
-      "projectPath": "C:\\Users\\developer_04\\source\\repos\\TutorialMicrosoft\\TutorialMicrosoft\\TutorialMicrosoft.csproj",
+      "projectUniqueName": "C:\\Users\\developer_04\\source\\repos\\MicrosoftCSharpNetCore\\TutorialMicrosoft\\Fibonacci.csproj",
+      "projectName": "Fibonacci",
+      "projectPath": "C:\\Users\\developer_04\\source\\repos\\MicrosoftCSharpNetCore\\TutorialMicrosoft\\Fibonacci.csproj",
       "packagesPath": "C:\\Users\\developer_04\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\developer_04\\source\\repos\\TutorialMicrosoft\\TutorialMicrosoft\\obj\\",
+      "outputPath": "C:\\Users\\developer_04\\source\\repos\\MicrosoftCSharpNetCore\\TutorialMicrosoft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

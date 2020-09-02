@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\developer_04\\source\\repos\\TutorialMicrosoft\\TutorialMicrosoft\\TutorialMicrosoft.csproj": {}
+    "C:\\Users\\developer_04\\source\\repos\\MicrosoftCSharpNetCore\\Fibonacci\\Fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\developer_04\\source\\repos\\TutorialMicrosoft\\TutorialMicrosoft\\TutorialMicrosoft.csproj": {
+    "C:\\Users\\developer_04\\source\\repos\\MicrosoftCSharpNetCore\\Fibonacci\\Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\developer_04\\source\\repos\\TutorialMicrosoft\\TutorialMicrosoft\\TutorialMicrosoft.csproj",
-        "projectName": "TutorialMicrosoft",
-        "projectPath": "C:\\Users\\developer_04\\source\\repos\\TutorialMicrosoft\\TutorialMicrosoft\\TutorialMicrosoft.csproj",
+        "projectUniqueName": "C:\\Users\\developer_04\\source\\repos\\MicrosoftCSharpNetCore\\Fibonacci\\Fibonacci.csproj",
+        "projectName": "Fibonacci",
+        "projectPath": "C:\\Users\\developer_04\\source\\repos\\MicrosoftCSharpNetCore\\Fibonacci\\Fibonacci.csproj",
         "packagesPath": "C:\\Users\\developer_04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\developer_04\\source\\repos\\TutorialMicrosoft\\TutorialMicrosoft\\obj\\",
+        "outputPath": "C:\\Users\\developer_04\\source\\repos\\MicrosoftCSharpNetCore\\Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

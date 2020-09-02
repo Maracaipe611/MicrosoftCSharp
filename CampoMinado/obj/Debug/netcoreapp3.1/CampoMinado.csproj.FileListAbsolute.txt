@@ -1,0 +1,13 @@
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\bin\Debug\netcoreapp3.1\CampoMinado.exe
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\bin\Debug\netcoreapp3.1\CampoMinado.deps.json
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\bin\Debug\netcoreapp3.1\CampoMinado.runtimeconfig.json
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\bin\Debug\netcoreapp3.1\CampoMinado.runtimeconfig.dev.json
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\bin\Debug\netcoreapp3.1\CampoMinado.dll
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\bin\Debug\netcoreapp3.1\CampoMinado.pdb
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\obj\Debug\netcoreapp3.1\CampoMinado.csprojAssemblyReference.cache
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\obj\Debug\netcoreapp3.1\CampoMinado.AssemblyInfoInputs.cache
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\obj\Debug\netcoreapp3.1\CampoMinado.AssemblyInfo.cs
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\obj\Debug\netcoreapp3.1\CampoMinado.csproj.CoreCompileInputs.cache
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\obj\Debug\netcoreapp3.1\CampoMinado.dll
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\obj\Debug\netcoreapp3.1\CampoMinado.pdb
+C:\Users\developer_04\source\repos\MicrosoftCSharpNetCore\CampoMinado\obj\Debug\netcoreapp3.1\CampoMinado.genruntimeconfig.cache
