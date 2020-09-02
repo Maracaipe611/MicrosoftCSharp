@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Numerics;
 using System.Collections.Generic;
+using System.Windows.Vector;
 
 namespace CampoMinado
 {
@@ -9,6 +10,7 @@ namespace CampoMinado
         static void Main(string[] args)
         {
             Random rnd = new Random(1);
+            Vector vectorResult = Vector.Parse("1,3");
             int valorAleatorio;
             var vetores = new List<int> {1};
 
@@ -30,7 +32,7 @@ namespace CampoMinado
                     Console.Write("|\n");
                 }
             }
-            int contador = 1;
+           /* int contador = 1;
             do
             {
                 Console.Write($"{contador}º - {vetores[contador]}   ");
@@ -41,6 +43,22 @@ namespace CampoMinado
                 contador++;
             } while (contador <= 30);
             Console.ReadLine();
-        }
+        } */
+        for(int contador =1; contador<=30; contador++)
+            {
+                if(vetores[contador] == 1)
+                {
+                    statusCasa[contador] = "Bomba";
+                }else if (vetores[contador] == 0){
+                    for(int x = -6; x<=6; x++) {
+                        if (statusCasa[contador + x] == "Bomba")
+                        {
+                            statusCasa[contador]++;
+                        }
+                    }
+                    
+                }
+            }
+
     }
 }
